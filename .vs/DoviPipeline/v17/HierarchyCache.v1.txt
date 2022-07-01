@@ -1,0 +1,1181 @@
+﻿++解决方案“DoviPipeline”‎(2 个项目，共 2 个)
+i:{00000000-0000-0000-0000-000000000000}:DoviPipeline.sln
+++Assembly-CSharp-Editor
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp-Editor
+++引用
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Assets
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\
+++DoviRenderPipeline
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\
+++Assembly-CSharp
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Boo.Lang
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Microsoft.CSharp
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Microsoft.Win32.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++mscorlib
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++netstandard
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++nunit.framework
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.AppContext
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Collections
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Collections.Concurrent
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Collections.NonGeneric
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Collections.Specialized
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ComponentModel
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ComponentModel.Annotations
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ComponentModel.EventBasedAsync
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ComponentModel.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ComponentModel.TypeConverter
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Console
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Core
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Data
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Data.Common
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Diagnostics.Contracts
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Diagnostics.Debug
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Diagnostics.FileVersionInfo
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Diagnostics.Process
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Diagnostics.StackTrace
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Diagnostics.TextWriterTraceListener
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Diagnostics.Tools
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Diagnostics.TraceSource
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Drawing.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Dynamic.Runtime
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Globalization
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Globalization.Calendars
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Globalization.Extensions
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.Compression.ZipFile
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.FileSystem
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.FileSystem.DriveInfo
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.FileSystem.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.FileSystem.Watcher
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.IsolatedStorage
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.MemoryMappedFiles
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.Pipes
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.IO.UnmanagedMemoryStream
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Linq
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Linq.Expressions
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Linq.Parallel
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Linq.Queryable
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.Http
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.Http.Rtc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.NameResolution
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.NetworkInformation
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.Ping
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.Requests
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.Security
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.Sockets
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.WebHeaderCollection
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.WebSockets
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Net.WebSockets.Client
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Numerics
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Numerics.Vectors
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ObjectModel
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Reflection
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Reflection.Emit
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Reflection.Emit.ILGeneration
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Reflection.Emit.Lightweight
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Reflection.Extensions
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Reflection.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Resources.Reader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Resources.ResourceManager
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Resources.Writer
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.CompilerServices.VisualC
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.Extensions
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.Handles
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.InteropServices
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.InteropServices.RuntimeInformation
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.InteropServices.WindowsRuntime
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.Numerics
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.Serialization
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.Serialization.Formatters
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.Serialization.Json
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.Serialization.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Runtime.Serialization.Xml
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Security.Claims
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Security.Cryptography.Algorithms
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Security.Cryptography.Csp
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Security.Cryptography.Encoding
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Security.Cryptography.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Security.Cryptography.X509Certificates
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Security.Principal
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Security.SecureString
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ServiceModel.Duplex
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ServiceModel.Http
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ServiceModel.NetTcp
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ServiceModel.Primitives
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ServiceModel.Security
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Text.Encoding
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Text.Encoding.Extensions
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Text.RegularExpressions
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Threading
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Threading.Overlapped
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Threading.Tasks
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Threading.Tasks.Parallel
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Threading.Thread
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Threading.ThreadPool
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Threading.Timer
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.ValueTuple
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Xml
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Xml.Linq
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Xml.ReaderWriter
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Xml.XDocument
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Xml.XmlDocument
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Xml.XmlSerializer
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Xml.XPath
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++System.Xml.XPath.XDocument
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Unity.CollabProxy.Editor
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Unity.Rider.Editor
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Unity.TextMeshPro
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Unity.TextMeshPro.Editor
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Unity.Timeline
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Unity.Timeline.Editor
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Unity.VSCode.Editor
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEditor
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEditor.Graphs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEditor.TestRunner
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEditor.UI
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEditor.VR
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEditor.WindowsStandalone.Extensions
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.AccessibilityModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.AIModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.AndroidJNIModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.AnimationModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.ARModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.AssetBundleModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.AudioModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.ClothModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.ClusterInputModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.ClusterRendererModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.CoreModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.CrashReportingModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.DirectorModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.DSPGraphModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.GameCenterModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.GridModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.HotReloadModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.ImageConversionModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.IMGUIModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.InputLegacyModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.InputModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.JSONSerializeModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.LocalizationModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.ParticleSystemModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.PerformanceReportingModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.Physics2DModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.PhysicsModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.ProfilerModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.ScreenCaptureModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.SharedInternalsModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.SpriteMaskModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.SpriteShapeModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.StreamingModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.SubstanceModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.SubsystemsModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.TerrainModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.TerrainPhysicsModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.TestRunner
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.TextCoreModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.TextRenderingModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.TilemapModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.TLSModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UI
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UIElementsModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UIModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UmbraModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UNETModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UnityAnalyticsModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UnityConnectModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UnityTestProtocolModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UnityWebRequestAssetBundleModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UnityWebRequestAudioModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UnityWebRequestModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UnityWebRequestTextureModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.UnityWebRequestWWWModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.VehiclesModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.VFXModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.VideoModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.VRModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.WindModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityEngine.XRModule
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityScript
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++UnityScript.Lang
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Editor
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bokehblur\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\boxblur\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\brightnessandcontrast\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\broken\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\colorspace\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\explosure\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\gaussianblur\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\hsv\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\mosaic\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\oilpaint\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\radialblur\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\relief\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\rgbsplit\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\robertedgedetection\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\sharpen\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\spherize\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\triangle\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\turngray\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\vignette\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\voronoi\editor\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\whitebalance\editor\
+++DoviGIEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\editor\dovigieditor.cs
+++DrawerUtility.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\editor\drawerutility.cs
+++ShaderDrawer.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\editor\shaderdrawer.cs
+++Camera
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\camera\
+++PostProcessing
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\
+++Resources
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\
+++GI
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\gi\
+++Compute
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\compute\
+++Shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bokehblur\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\boxblur\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\brightnessandcontrast\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\broken\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\colorspace\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\explosure\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\gaussianblur\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\hsv\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\mosaic\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\motionblur\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\oilpaint\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\radialblur\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\relief\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\rgbsplit\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\robertedgedetection\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\screenspaceambientocclusion\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\sharpen\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\spherize\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\triangle\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\turngray\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\vignette\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\voronoi\shader\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\whitebalance\shader\
+++Lighting.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\shader\lighting.shader
+++Utility.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\shader\utility.shader
+++Visualization.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\shader\visualization.shader
+++Runtime
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\
+++DoviGI.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\dovigi.cs
+++DoviGIMipmapDebug.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\dovigimipmapdebug.cs
+++DoviRenderPipeline.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\dovirenderpipeline.cs
+++DoviRenderPipelineAsset.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\dovirenderpipelineasset.cs
+++GIRenderer.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\girenderer.cs
+++LightingShader.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\lightingshader.cs
+++LightSource.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\lightsource.cs
+++Mipmapper.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\mipmapper.cs
+++NumThreads.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\numthreads.cs
+++Parameterizer.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\parameterizer.cs
+++ShaderIDs.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\shaderids.cs
+++ShaderTagIDs.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\shadertagids.cs
+++UtilityShader.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\utilityshader.cs
+++VisualizationShader.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\visualizationshader.cs
+++VoxelData.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\voxeldata.cs
+++Voxelizer.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\voxelizer.cs
+++VoxelShader.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\runtime\voxelshader.cs
+++ShaderLibrary
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\
+++BRDFs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\brdfs\
+++Common
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\common\
+++LightModel
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\
+++PBR
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\pbr\
+++PBS.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\pbr\pbs.shader
+++Radiances
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\radiances\
+++Structs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\structs\
+++Shaders
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaders\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\shaders\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\tonemapping\shaders\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\volumelight\shaders\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\
+++Basic.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaders\basic.shader
+++Standard.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaders\standard.shader
+++StandardSpecular.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaders\standardspecular.shader
+++Voxelization.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaders\voxelization.shader
+++FreeCamera.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\camera\freecamera.cs
+++Effects
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\
+++Mipmapper.compute
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\compute\mipmapper.compute
+++Parameterizer.compute
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\compute\parameterizer.compute
+++VoxelShader.compute
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\resources\gi\compute\voxelshader.compute
+++Diffuse.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\brdfs\diffuse.cginc
+++General.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\brdfs\general.cginc
+++Specular.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\brdfs\specular.cginc
+++brdf.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\common\brdf.hlsl
+++PARAMESINPUT.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\common\paramesinput.hlsl
+++stdlib.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\common\stdlib.hlsl
+++BlitSupport.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\gi\blitsupport.hlsl
+++Constants.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\gi\constants.cginc
+++Utilities.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\gi\utilities.cginc
+++Variables.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\gi\variables.cginc
+++Visibility.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\gi\visibility.cginc
+++BaseLightModel.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\baselightmodel.hlsl
+++BlinnPhongModel.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\blinnphongmodel.shader
+++CBUFFER_INPUT.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\cbuffer_input.hlsl
+++CommonLighting.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\commonlighting.hlsl
+++CookTorranceModel.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\cooktorrancemodel.shader
+++HalfLambertModel.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\halflambertmodel.shader
+++LambertModel.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\lambertmodel.shader
+++PhongModel.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\lightmodel\phongmodel.shader
+++Pixel.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\radiances\pixel.cginc
+++Sampler.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\radiances\sampler.cginc
+++Voxel.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\radiances\voxel.cginc
+++LightingData.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\structs\lightingdata.cginc
+++LightSource.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\structs\lightsource.hlsl
+++VoxelData.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\structs\voxeldata.cginc
+++VoxelLightingData.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\shaderlibrary\structs\voxellightingdata.hlsl
+++VolumeLight
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\volumelight\
+++Scripts
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bokehblur\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\boxblur\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\brightnessandcontrast\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\broken\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\colorspace\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\explosure\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\gaussianblur\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\hsv\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\mosaic\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\motionblur\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\oilpaint\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\radialblur\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\relief\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\rgbsplit\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\robertedgedetection\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\screenspaceambientocclusion\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\sharpen\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\spherize\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\tonemapping\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\triangle\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\turngray\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\vignette\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\volumelight\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\voronoi\scripts\
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\whitebalance\scripts\
+++VolumetricLight.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\volumelight\scripts\volumetriclight.cs
+++VolumetricLightRenderer.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\volumelight\scripts\volumetriclightrenderer.cs
+++BilateralBlur.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\volumelight\shaders\bilateralblur.shader
+++BlitAdd.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\volumelight\shaders\blitadd.shader
+++VolumetricLight.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\volumelight\shaders\volumetriclight.shader
+++Assembly-CSharp-Editor (已卸载)
+++解决方案“DoviPipeline”‎(1 个项目，共 2 个)
+++解决方案“DoviPipeline”‎(0 个项目，共 2 个)
+++API
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\
+++ACES.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\aces.hlsl
+++Blending.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\blending.hlsl
+++Colors.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\colors.hlsl
+++KNoiseLibrary.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\knoiselibrary.hlsl
+++License.txt
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\license.txt
+++Sampling.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\sampling.hlsl
+++StdLib.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\stdlib.hlsl
+++XPostProcessing.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\xpostprocessing.hlsl
+++xRLib.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\xrlib.hlsl
+++D3D11.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\d3d11.hlsl
+++D3D12.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\d3d12.hlsl
+++D3D9.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\d3d9.hlsl
+++Metal.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\metal.hlsl
+++OpenGL.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\opengl.hlsl
+++PSP2.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\psp2.hlsl
+++PSSL.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\pssl.hlsl
+++Switch.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\switch.hlsl
+++Vulkan.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\vulkan.hlsl
+++XboxOne.hlsl
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\api\xboxone.hlsl
+++FieldFinder.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\editor\fieldfinder.cs
+++KPostProcessingEditorUtility.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\editor\kpostprocessingeditorutility.cs
+++ColorWheel.shader
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\shaders\editor\colorwheel.shader
+++Assembly-CSharp (已卸载)
+++Utility
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\utility\
+++Bloom
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\
+++BokehBlur
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bokehblur\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bokehblur\
+++BoxBlur
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\boxblur\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\boxblur\
+++BrightnessAndContrast
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\brightnessandcontrast\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\brightnessandcontrast\
+++Broken
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\broken\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\broken\
+++ColorSpace
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\colorspace\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\colorspace\
+++DepthOfField
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\
+++Explosure
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\explosure\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\explosure\
+++GaussianBlur
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\gaussianblur\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\gaussianblur\
+++GlobalFog
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\
+++HSV
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\hsv\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\hsv\
+++Mosaic
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\mosaic\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\mosaic\
+++MotionBlur
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\motionblur\
+++OilPaint
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\oilpaint\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\oilpaint\
+++RadialBlur
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\radialblur\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\radialblur\
+++Relief
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\relief\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\relief\
+++RGBSplit
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\rgbsplit\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\rgbsplit\
+++RobertEdgeDetection
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\robertedgedetection\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\robertedgedetection\
+++ScreenSpaceAmbientOcclusion
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\screenspaceambientocclusion\
+++Sharpen
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\sharpen\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\sharpen\
+++Spherize
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\spherize\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\spherize\
+++TemporalAntiAliasing
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\
+++Tonemapping
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\tonemapping\
+++Triangle
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\triangle\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\triangle\
+++TurnGray
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\turngray\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\turngray\
+++Vignette
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\vignette\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\vignette\
+++Voronoi
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\voronoi\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\voronoi\
+++WhiteBalance
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\whitebalance\
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\whitebalance\
+++ColorWheelAttribute.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\utility\colorwheelattribute.cs
+++KParameterOverride.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\utility\kparameteroverride.cs
+++KPostProcessingEnum.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\utility\kpostprocessingenum.cs
+++KPostProcessingUtility.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\utility\kpostprocessingutility.cs
+++PostEffectBase.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\utility\posteffectbase.cs
+++Bloom.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\scripts\bloom.cs
+++Bloom.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\shader\bloom.cginc
+++Bloom.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\shader\bloom.shader
+++BokehBlur.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bokehblur\scripts\bokehblur.cs
+++BokehBlur.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bokehblur\shader\bokehblur.shader
+++BoxBlur.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\boxblur\scripts\boxblur.cs
+++BoxBlur.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\boxblur\shader\boxblur.shader
+++BrightnessAndContrast.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\brightnessandcontrast\scripts\brightnessandcontrast.cs
+++BrightnessAndContrast.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\brightnessandcontrast\shader\brightnessandcontrast.shader
+++Broken.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\broken\scripts\broken.cs
+++Broken.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\broken\shader\broken.shader
+++ColorSpace.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\colorspace\scripts\colorspace.cs
+++ColorSpace.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\colorspace\shader\colorspace.shader
+++KirkPostProcessingDepthOfField.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\scripts\kirkpostprocessingdepthoffield.cs
+++Bokeh.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\shader\bokeh.shader
+++Common.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\shader\common.cginc
+++Composition.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\shader\composition.cginc
+++Debug.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\shader\debug.cginc
+++DiskBlur.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\shader\diskblur.cginc
+++DiskKernel.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\shader\diskkernel.cginc
+++Prefilter.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\shader\prefilter.cginc
+++Explosure.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\explosure\scripts\explosure.cs
+++Explosure.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\explosure\shader\explosure.shader
+++GaussianBlur.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\gaussianblur\scripts\gaussianblur.cs
+++GaussianBlur.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\gaussianblur\shader\gaussianblur.shader
+++FadeToSkybox.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\scripts\fadetoskybox.cs
+++KirkPostProcessingGlobalFog.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\scripts\kirkpostprocessingglobalfog.cs
+++PostEffectsBase.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\scripts\posteffectsbase.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\tonemapping\scripts\posteffectsbase.cs
+++FadeToSkybox.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\shader\fadetoskybox.shader
+++GlobalFog.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\shader\globalfog.shader
+++HSV.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\hsv\scripts\hsv.cs
+++HSV.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\hsv\shader\hsv.shader
+++Mosaic.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\mosaic\scripts\mosaic.cs
+++Mosaic.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\mosaic\shader\mosaic.shader
+++KirkPostProcessingMotionBlur.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\motionblur\scripts\kirkpostprocessingmotionblur.cs
+++MotionBlur.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\motionblur\shader\motionblur.shader
+++OilPaint.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\oilpaint\scripts\oilpaint.cs
+++OilPaint.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\oilpaint\shader\oilpaint.shader
+++RadialBlur.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\radialblur\scripts\radialblur.cs
+++RadialBlur.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\radialblur\shader\radialblur.shader
+++Relief.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\relief\scripts\relief.cs
+++Relief.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\relief\shader\relief.shader
+++RGBSplit.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\rgbsplit\scripts\rgbsplit.cs
+++RGBSplit.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\rgbsplit\shader\rgbsplit.shader
+++EdgeDetectionRobert.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\robertedgedetection\scripts\edgedetectionrobert.cs
+++EdgeDetectionRobert.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\robertedgedetection\shader\edgedetectionrobert.shader
+++KirkPostProcessingScreenSpaceAOEffect.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\screenspaceambientocclusion\scripts\kirkpostprocessingscreenspaceaoeffect.cs
+++SSAO.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\screenspaceambientocclusion\shader\ssao.shader
+++Sharpen.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\sharpen\scripts\sharpen.cs
+++Sharpen.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\sharpen\shader\sharpen.shader
+++Spherize.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\spherize\scripts\spherize.cs
+++Spherize.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\spherize\shader\spherize.shader
+++KirkPostProcessingTemporalAntiAliasing.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\scripts\kirkpostprocessingtemporalantialiasing.cs
+++TemporalAntiAliasing.cginc
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\shaders\temporalantialiasing.cginc
+++TemporalAntiAliasing.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\shaders\temporalantialiasing.shader
+++Tonemapping.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\tonemapping\scripts\tonemapping.cs
+++Tonemapper.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\tonemapping\shaders\tonemapper.shader
+++Triangle.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\triangle\scripts\triangle.cs
+++Triangle.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\triangle\shader\triangle.shader
+++TurnGray.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\turngray\scripts\turngray.cs
+++TurnGray.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\turngray\shader\turngray.shader
+++Vignette.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\vignette\scripts\vignette.cs
+++Vignette.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\vignette\shader\vignette.shader
+++Voronoi.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\voronoi\scripts\voronoi.cs
+++Voronoi.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\voronoi\shader\voronoi.shader
+++WhiteBalance.cs
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\whitebalance\scripts\whitebalance.cs
+++WhiteBalance.shader
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\whitebalance\shader\whitebalance.shader
+++BloomEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\editor\bloomeditor.cs
+++BloomGraphDrawer.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bloom\editor\bloomgraphdrawer.cs
+++BokehBlurEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\bokehblur\editor\bokehblureditor.cs
+++BoxBlurEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\boxblur\editor\boxblureditor.cs
+++BrightnessAndContrastEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\brightnessandcontrast\editor\brightnessandcontrasteditor.cs
+++BrokenEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\broken\editor\brokeneditor.cs
+++ColorSpaceEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\colorspace\editor\colorspaceeditor.cs
+++DepthOfFieldEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\depthoffield\editor\depthoffieldeditor.cs
+++ExplosureEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\explosure\editor\explosureeditor.cs
+++GaussianBlurEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\gaussianblur\editor\gaussianblureditor.cs
+++FadeToSkyboxEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\globalfog\editor\fadetoskyboxeditor.cs
+++HSVEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\hsv\editor\hsveditor.cs
+++MosaicEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\mosaic\editor\mosaiceditor.cs
+++OilPaintEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\oilpaint\editor\oilpainteditor.cs
+++RadialBlurEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\radialblur\editor\radialblureditor.cs
+++ReliefEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\relief\editor\reliefeditor.cs
+++RGBSplitEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\rgbsplit\editor\rgbspliteditor.cs
+++EdgeDetectionRobertEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\robertedgedetection\editor\edgedetectionroberteditor.cs
+++SharpenEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\sharpen\editor\sharpeneditor.cs
+++SpherizeEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\spherize\editor\spherizeeditor.cs
+++TemporalAntiAliasingEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\temporalantialiasing\editor\temporalantialiasingeditor.cs
+++TriangleEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\triangle\editor\triangleeditor.cs
+++TurnGrayyEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\turngray\editor\turngrayyeditor.cs
+++VignetteEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\vignette\editor\vignetteeditor.cs
+++VoronoiEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\voronoi\editor\voronoieditor.cs
+++WhiteBalanceEditor.cs
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:e:\graduation project\dovipipeline\assets\dovirenderpipeline\postprocessing\effects\whitebalance\editor\whitebalanceeditor.cs
+++Unity.Postprocessing.Editor
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
+++Unity.Postprocessing.Runtime
+i:{53a80737-5565-aa56-2d15-40c26c0c4660}:
+i:{af399d40-318c-18f1-aeb6-a58597aba900}:
