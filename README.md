@@ -1,5 +1,5 @@
 # DoviPipeline
-基于Unity SRP的玩具级渲染管线开发，用于个人学习研究
+基于Unity SRP的玩具级渲染管线，用于个人学习研究
 
 目前包含的主要内容包括：  
 基础管线：支持SRP Batching，支持多种光源（平行光、聚光灯、点光源）、多个光源（最多4盏）。  
@@ -14,3 +14,4 @@ https://github.com/Kirkice/SRPTest
 https://github.com/QianMo/X-PostProcessing-Library  
 https://github.com/Looooong/Unity-SRP-VXGI  
 https://github.com/SlightlyMad/VolumetricLights  
+https://github.com/huailiang/ibl_proj
