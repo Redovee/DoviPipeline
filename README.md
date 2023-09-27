@@ -9,7 +9,7 @@ PBR材质：Cook-Torrance微表面简单模型，基于IBL和BRDF实现PBR光照
 体积光：基于Ray Marching的体积光实现，参照SlightlyMad的项目。  
 后处理：X-PostProcessing-Library
 
-refenrence:  
+reference:  
 https://github.com/Kirkice/SRPTest  
 https://github.com/QianMo/X-PostProcessing-Library  
 https://github.com/Looooong/Unity-SRP-VXGI  
